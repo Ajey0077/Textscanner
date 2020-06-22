@@ -276,7 +276,7 @@ def main_screen():
     screen = Tk()
     screen.geometry("800x800")
     #window icon
-    screen.iconbitmap(r"Hopstarter-Soft-Scraps-Document-Text.ico")
+    #screen.iconbitmap(r"Hopstarter-Soft-Scraps-Document-Text.ico")
     img = ImageTk.PhotoImage(Image.open(r"pic.jpg"))
     Label(screen, image=img).place(x=0,y=0,relwidth=1, relheight=1)
     helv36 = tkFont.Font(family='Helvetica', size=10, weight='bold')
