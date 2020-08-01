@@ -13,3 +13,4 @@ Libraries/packages : Tkenter (for making gui ), opencv(for image processing), py
  tesseract-ocr link- https://tesseract-ocr.github.io/tessdoc/4.0-with-LSTM
  
  
+@MyPracticeProject.
